@@ -1,5 +1,3 @@
-![Example picture](https://i.ibb.co/gMLyvJT/captcha.png)
-
 Create captcha
 -------------------------------
 Required packages:
@@ -7,3 +5,6 @@ Required packages:
 
 You can download this package with this command:
 `pip3 install --upgrade captcha`
+
+Example:
+![Example picture](https://i.ibb.co/gMLyvJT/captcha.png)
