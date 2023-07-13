@@ -1,4 +1,4 @@
-https://i.ibb.co/gMLyvJT/captcha.png
+![Example picture](https://i.ibb.co/gMLyvJT/captcha.png)
 
 Create captcha
 -------------------------------
